@@ -1,0 +1,31 @@
+{
+  "name": "goit_node_sandbox",
+  "version": "1.0.0",
+  "description": "learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tensys57/GoIt_Node_Sandbox.git"
+  },
+  "keywords": [
+    "sandbox"
+  ],
+  "author": "Tensys57",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tensys57/GoIt_Node_Sandbox/issues"
+  },
+  "homepage": "https://github.com/Tensys57/GoIt_Node_Sandbox#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
